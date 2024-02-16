@@ -13,7 +13,6 @@ This portfolio website is designed to provide an overview of my work, skills, an
 - About Me: A brief introduction about myself.
 - Projects: Showcase of my projects with descriptions and links.
 - Skills: List of skills and technologies I am proficient in.
-- Experience: Summary of my professional experience and education.
 
 ## Technologies Used
 
