@@ -4,7 +4,7 @@ This is a portfolio website showcasing my projects, skills, and experiences.
 
 ## Link
 
-You can view the website live https://portfolio-website-opyu7qg5y-jai-prakash-rs-projects.vercel.app/.
+You can view the website live (https://portfolio-website-jaiprakash-three.vercel.app/).
 
 ## Description
 
