@@ -1,6 +1,6 @@
-# Portfolio Website
+# Personal Portfolio Website
 
-This is a portfolio website showcasing my projects, skills, and experiences.
+This is a personal portfolio website showcasing my projects, skills, and experiences.
 
 ## Link
 
