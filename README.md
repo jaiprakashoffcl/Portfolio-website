@@ -4,7 +4,7 @@ This is a personal portfolio website showcasing my projects, skills, and experie
 
 ## Link
 
-You can view the website live[Personal Portfolio](https://portfolio-website-jaiprakash-three.vercel.app/).
+You can view the website live [Personal Portfolio](https://portfolio-website-jaiprakash-three.vercel.app/).
 
 ## Description
 
